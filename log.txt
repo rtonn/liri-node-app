@@ -1,0 +1,19 @@
+
+**********MOVIE INFO*********
+Title: Rambo
+Release Year: 2008
+IMDB Rating: 7.0
+Country of Production: Germany, USA
+Language: English, Burmese, Thai
+Plot: In Thailand, John Rambo joins a group of mercenaries to venture into war-torn Burma, and rescue a group of Christian aid workers who were kidnapped by the ruthless local infantry unit.
+Actors: Sylvester Stallone, Julie Benz, Matthew Marsden, Graham McTavish
+*****************************
+**********MOVIE INFO*********
+Title: Die Hard
+Release Year: 1988
+IMDB Rating: 8.2
+Country of Production: USA
+Language: English, German, Italian, Japanese
+Plot: An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.
+Actors: Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason
+*****************************
