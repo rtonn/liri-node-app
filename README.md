@@ -31,7 +31,7 @@
 2. Navigate to the folder that contains the `liri.js` file. 
 3. Run the options below. Depending on the command you run, the output will vary:
     * Run the `concert-this` command "node liri.js concert-this (name of artist or band)". 
-      * ![Results](screenshots/liri_BandsInTown.PNG)
+      * ![Results](/screenshots/liri_BandsInTown.PNG)
 
     * Run the `spotify-this-song` command "node liri.js spotify-this-song (name of song)".
       * ![Results](screenshots/liri_Spotify.PNG)
