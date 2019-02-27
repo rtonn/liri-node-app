@@ -31,16 +31,18 @@
 2. Navigate to the folder that contains the `liri.js` file. 
 3. Run the options below. Depending on the command you run, the output will vary:
     * Run the `concert-this` command "node liri.js concert-this (name of artist or band)". 
-      * ![Results](![liri_bandsintown](https://user-images.githubusercontent.com/44482712/53518861-8fe2f800-3a97-11e9-8f57-cce504f9e0a1.png)
+      * ![liri_bandsintown](https://user-images.githubusercontent.com/44482712/53518861-8fe2f800-3a97-11e9-8f57-cce504f9e0a1.png)
 
     * Run the `spotify-this-song` command "node liri.js spotify-this-song (name of song)".
       * ![liri_spotify](https://user-images.githubusercontent.com/44482712/53519056-fff17e00-3a97-11e9-9490-e525d9f2a965.png)
 
     * Run the `movie-this` commandq "node liri.js movie-this (name of movie)".    
-      * ![Results](screenshots/liri_IMDB.PNG)
+      * ![liri_imdb](https://user-images.githubusercontent.com/44482712/53519182-56f75300-3a98-11e9-930f-d7ad2cfcabbd.png)
 
     * Run the `do-what-it-says` command "node liri.js do-what-it-says".
-      * ![Results](screenshots/liri_DoWhatItSays.PNG)
+      * ![liri_dowhatitsays](https://user-images.githubusercontent.com/44482712/53519195-5c549d80-3a98-11e9-95cd-ea555b039bc0.png)
+
+
 
 
 
