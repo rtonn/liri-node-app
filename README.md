@@ -34,7 +34,7 @@
       * ![Results](![liri_bandsintown](https://user-images.githubusercontent.com/44482712/53518861-8fe2f800-3a97-11e9-8f57-cce504f9e0a1.png)
 
     * Run the `spotify-this-song` command "node liri.js spotify-this-song (name of song)".
-      * ![Results](screenshots/liri_Spotify.PNG)
+      * ![liri_spotify](https://user-images.githubusercontent.com/44482712/53519056-fff17e00-3a97-11e9-9490-e525d9f2a965.png)
 
     * Run the `movie-this` commandq "node liri.js movie-this (name of movie)".    
       * ![Results](screenshots/liri_IMDB.PNG)
