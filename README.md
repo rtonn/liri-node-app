@@ -10,15 +10,7 @@
    * `spotify-this-song`
    * `movie-this`
    * `do-what-it-says`
-
-# Instruction: 
-1. Open your terminal such as Bash.
-2. Navigate to the folder that contains the `liri.js` file. 
-3. Run the options below. Depending on the command you run, the output will vary:
-    * Run the `concert-this` command "node liri.js concert-this (name of artist or band)". 
-    * Run the `spotify-this-song` command "node liri.js spotify-this-song (name of song)".
-    * Run the `movie-this` commandq "node liri.js movie-this (name of movie)".    
-    * Run the `do-what-it-says` command "node liri.js do-what-it-says".  
+   
 
 # TECHNOLOGIES USED
   * Javascript
@@ -32,5 +24,28 @@
     * OMDB
   * Git
   * GitHub
+
+
+# Instruction: 
+1. Open your terminal such as Bash.
+2. Navigate to the folder that contains the `liri.js` file. 
+3. Run the options below. Depending on the command you run, the output will vary:
+    * Run the `concert-this` command "node liri.js concert-this (name of artist or band)". 
+      * ![Results](screenshots/liri_BandsInTown.PNG)
+
+    * Run the `spotify-this-song` command "node liri.js spotify-this-song (name of song)".
+      * ![Results](screenshots/liri_Spotify.PNG)
+
+    * Run the `movie-this` commandq "node liri.js movie-this (name of movie)".    
+      * ![Results](screenshots/liri_IMDB.PNG)
+
+    * Run the `do-what-it-says` command "node liri.js do-what-it-says".
+      * ![Results](screenshots/liri_DoWhatItSays.PNG)
+
+
+
+
+
+
 
 
