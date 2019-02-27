@@ -36,7 +36,7 @@
     * Run the `spotify-this-song` command "node liri.js spotify-this-song (name of song)".
       * ![liri_spotify](https://user-images.githubusercontent.com/44482712/53519056-fff17e00-3a97-11e9-9490-e525d9f2a965.png)
 
-    * Run the `movie-this` commandq "node liri.js movie-this (name of movie)".    
+    * Run the `movie-this` command "node liri.js movie-this (name of movie)".    
       * ![liri_imdb](https://user-images.githubusercontent.com/44482712/53519182-56f75300-3a98-11e9-930f-d7ad2cfcabbd.png)
 
     * Run the `do-what-it-says` command "node liri.js do-what-it-says".
